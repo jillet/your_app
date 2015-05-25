@@ -23,7 +23,7 @@ test:
 production:
   adapter: postgresql
   encoding: utf8
-  database: dav2c7knd7tgd1
+  database: dfclur571htuj3
   port: 5432
-  username: kfbtxppcelqtqx
-  password: BQSLl7VFBTYB4uO55YR5TGdgDh
+  username: lezmerpfgnvpyd
+  password: jA7pwWrDGGZllBPctSEuZH7RbO
